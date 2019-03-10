@@ -17,7 +17,7 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
+**Project Manager & Product Owner @ Ceratizit Deutschland GmbH**
 
 ## Berufliche Laufbahn
 
