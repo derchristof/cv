@@ -41,50 +41,39 @@ __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 __Trainer für Webentwicklung (Stuttgart)__
 - Schulungen in HTML/CSS
 
+`01.2002 - 09.2002`
+__Pflegeheim Talgarten (Konstanz)__
+- Pflegehelfer
+
+`10.1999 - 12.2001`
+__Human Touch Media / SWR (Konstanz)__
+- Praktikant & Auszubildender Mediengestalter Bild & Ton (unvollendet)
+
+`09.1998 - 07.1999`
+__Klinikum Konstanz__
+- Zivildienstleistender
+
 ## Akademische Laufbahn
 
-`2012`
-President, *Royal Society*, London, UK
+`10.2002 - 08.2006`
+__Hochschule der Medien Stuttgart__
+- Informationswirtschaft
+- Abschluss: Diplom-Informationswirt (FH)
 
-Associate, *French Academy of Science*, Paris, France
+## Fachkenntnisse / Skills
 
+__Web:__
+- HTML | CSS | Typo3 | Wordpress | PHP | SQL | XML | Java | Javascript | SEO
 
+__Applikationen:__
+- Adobe Creative Suite/Marketing Suite | MS Office | SAP BW / BO / ERP | Google Webmaster Tools | Google Analytics / Piwik | JIRA | Sharepoint
 
-## Publications
+__Sprachen:__
+- Deutsch (Muttersprache) | Englisch (Fließend in Wort & Schrift) | Niederländisch (Muttersprache) | Russisch (Gut)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Interessen:__
+- Meditation | Fitness
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: March 2019
 
 
