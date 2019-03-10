@@ -10,7 +10,7 @@ title: Christof Lechner's CV
 </div>
 
 
-## Currently
+## Aktuell
 
 Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 
@@ -18,37 +18,27 @@ Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 
 `12.2014 - heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
-
 - Recherche/Konzept, Anforderungen, Testing
-
 - wnt.com
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
-
 - Social Network Experte
-
 - Anforderungsmanagement, Weiterentwicklung
-
 - voith.com
 
 `08.2008 - 12.2011`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
-
 - Projektleiter
-
 - Onlinemarketing, Website Admin (CMS)
-
 - innovation.mfg.de
 
 `02.2007 - 07.2008`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
-
 - Trainee
 
 `10.2006 - 01.2007`
 __Trainer für Webentwicklung (Stuttgart)__
-
 - Schulungen in HTML/CSS
 
 ## Akademische Laufbahn
