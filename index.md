@@ -18,8 +18,11 @@ Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 
 `12.2014-heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
+
 Projektleiter/PO Digital Applications
+
 Recherche/Konzept | Anforderungen | Testing
+
 wnt.com
 
 `June 1661 - now`
