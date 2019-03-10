@@ -8,7 +8,7 @@ title: Christof Lechner's CV
 <a href="christof.lechner@gmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
 | Diepolz 32, 87509 Immenstadt<br />
 </div>
-
+***
 ![Alt text](200px_Lechner.jpg)      
 
 geboren am 12.04.1979 in Konstanz
