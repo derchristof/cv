@@ -65,6 +65,7 @@ __Hochschule der Medien Stuttgart__
 - Informationswirtschaft
 - Abschluss: Diplom-Informationswirt (FH)
 
+
 ## Fachkenntnisse / Skills
 
 __Web:__
