@@ -9,6 +9,7 @@ title: Christof Lechner's CV
 | Diepolz 32, 87509 Immenstadt
 </div>
 
+
 ![Alt text](200px_Lechner.jpg)      
 
 geboren am 12.04.1979 in Konstanz
@@ -28,13 +29,13 @@ __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
 - Social Network Experte
 - Anforderungsmanagement, Weiterentwicklung
-- voith.com
+- [voith.com](https://voith.com)
 
 `08.2008 - 12.2011`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 - Projektleiter
 - Onlinemarketing, Website Admin (CMS)
-- innovation.mfg.de
+- [innovation.mfg.de](https://innovation.mfg.de)
 
 `02.2007 - 07.2008`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
