@@ -14,10 +14,13 @@ title: Christof Lechner's CV
 
 Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 
-## Ausbildung
+## Berufliche Laufbahn
 
-`1654-1660`
-__The King's School, Grantham.__
+`12.2014-heute`
+__Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
+Projektleiter/PO Digital Applications
+Recherche/Konzept | Anforderungen | Testing
+wnt.com
 
 `June 1661 - now`
 __Trinity College, Cambridge__
