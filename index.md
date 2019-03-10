@@ -12,6 +12,7 @@ title: Christof Lechner's CV
 ![Alt text](200px_Lechner.jpg)      
 
 geboren am 12.04.1979 in Konstanz
+
 ***
 
 ## Aktuell
