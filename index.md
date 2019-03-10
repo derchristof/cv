@@ -16,28 +16,42 @@ Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 
 ## Berufliche Laufbahn
 
-`12.2014-heute`
+`12.2014 - heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
 
-Projektleiter/PO Digital Applications
+- Recherche/Konzept, Anforderungen, Testing
 
-Recherche/Konzept | Anforderungen | Testing
+- wnt.com
 
-wnt.com
+`05.2012 - 04.2014`
+__Voith Industrial Services GmbH & Co. KG (Stuttgart)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Social Network Experte
 
-- Sizar
+- Anforderungsmanagement, Weiterentwicklung
 
-`1667 - death`
-__Trinity College, Cambridge__
+- voith.com
 
-- Fellow
+`08.2008 - 12.2011`
+__MFG Innovationsagentur für IT und Medien (Stuttgart)__
 
+- Projektleiter
 
+- Onlinemarketing, Website Admin (CMS)
 
-## Berufliche Laufbahn
+- innovation.mfg.de
+
+`02.2007 - 07.2008`
+__MFG Innovationsagentur für IT und Medien (Stuttgart)__
+
+- Trainee
+
+`10.2006 - 01.2007`
+__Trainer für Webentwicklung (Stuttgart)__
+
+- Schulungen in HTML/CSS
+
+## Akademische Laufbahn
 
 `2012`
 President, *Royal Society*, London, UK
