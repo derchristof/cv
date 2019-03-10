@@ -7,11 +7,11 @@ title: Christof Lechner's CV
 <div id="webaddress">
 <a href="christof.lechner@gmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
 | Diepolz 32, 87509 Immenstadt
-
-geboren am 12.04.1979 in Konstanz
 </div>
 
 ![Alt text](200px_Lechner.jpg)      
+
+geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
@@ -22,7 +22,7 @@ Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 `12.2014 - heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
 - Recherche/Konzept, Anforderungen, Testing
-- wnt.com
+- [wnt.com](https://wnt.com)
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
