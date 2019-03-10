@@ -6,9 +6,8 @@ title: Christof Lechner's CV
 
 <div id="webaddress">
 <a href="christof.lechner@gmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
-| Diepolz 32, 87509 Immenstadt
+| Diepolz 32, 87509 Immenstadt | geboren am 12.04.1979 in Konstanz
 </div>
-
 
 ## Aktuell
 
@@ -63,17 +62,25 @@ __Hochschule der Medien Stuttgart__
 ## Fachkenntnisse / Skills
 
 __Web:__
-- HTML | CSS | Typo3 | Wordpress | PHP | SQL | XML | Java | Javascript | SEO
+- HTML / CSS
+- Typo3 / Wordpress
+- PHP / SQL / XML / Java / Javascript / SEO
 
 __Applikationen:__
-- Adobe Creative Suite/Marketing Suite | MS Office | SAP BW / BO / ERP | Google Webmaster Tools | Google Analytics / Piwik | JIRA | Sharepoint
+- Adobe Creative Suite/Marketing Suite
+- MS Office
+- SAP BW / BO / ERP
+- Google Webmaster Tools / Google Analytics / Piwik
+- JIRA / Sharepoint
 
 __Sprachen:__
-- Deutsch (Muttersprache) | Englisch (Fließend in Wort & Schrift) | Niederländisch (Muttersprache) | Russisch (Gut)
+- Deutsch (Muttersprache)
+- Englisch (Fließend in Wort & Schrift)
+- Niederländisch (Muttersprache)
+- Russisch (Gut)
 
 __Interessen:__
-- Meditation | Fitness
+- Meditation
+- Fitness
 
 Last updated: March 2019
-
-
