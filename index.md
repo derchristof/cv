@@ -1,31 +1,20 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Christof Lechner's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Christof Lechner
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="christof.lechner@gmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
+| Diepolz 32, 87509 Immenstadt
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
+## Ausbildung
 
 `1654-1660`
 __The King's School, Grantham.__
@@ -42,7 +31,7 @@ __Trinity College, Cambridge__
 
 
 
-## Awards
+## Berufliche Laufbahn
 
 `2012`
 President, *Royal Society*, London, UK
