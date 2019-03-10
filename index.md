@@ -9,6 +9,8 @@ title: Christof Lechner's CV
 | Diepolz 32, 87509 Immenstadt | geboren am 12.04.1979 in Konstanz
 </div>
 
+![Alt text](200px_Lechner.jpg)      
+
 ## Aktuell
 
 Projekt Manager & Product Owner @ Ceratizit Deutschland GmbH
