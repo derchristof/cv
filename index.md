@@ -63,8 +63,8 @@ __Klinikum Konstanz__
 
 `10.2002 - 08.2006`
 __Hochschule der Medien Stuttgart__
-- \#Informationswirtschaft
-- Abschluss: Diplom-Informationswirt (FH)
+- *Diplom-Informationswirt (FH)*
+- \#Informationswirtschaft \#IT \#BWL 
 
 ## Fachkenntnisse / Skills
 
