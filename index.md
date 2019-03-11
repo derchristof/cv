@@ -68,7 +68,7 @@ __Hochschule der Medien Stuttgart__
 
 ## Fachkenntnisse / Skills
 
-### Web:
+__Web:__
 - HTML / CSS
 - Typo3 / Wordpress
 - PHP / SQL / XML / Java / Javascript / SEO
