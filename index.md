@@ -25,19 +25,16 @@ geboren am 12.04.1979 in Konstanz
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
 - *PM & PO Digitale Applikationen*
 - \#Idee/Konzept \#Anforderungen \#Testing
-- [wnt.com](https://wnt.com)
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
-- *Social Network Experte (Enterprise 2.0)*
+- *Social Network Experte (\#Enterprise 2.0)*
 - \#Anforderungsmanagement \#Weiterentwicklung \#Schulungen
-- [voith.com](https://voith.com)
 
 `08.2008 - 12.2011`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 - *Projektleiter*
-- \#Onlinemarketing \#Website \#Admin/Redaktion (CMS)
-- [innovation.mfg.de](https://innovation.mfg.de)
+- \#Onlinemarketing \#Website Admin/Redaktion (CMS)
 
 `02.2007 - 07.2008`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
@@ -45,7 +42,7 @@ __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 
 `10.2006 - 01.2007`
 __Trainer für Webentwicklung (Stuttgart)__
-- *Trainer für Webentwicklung*
+- *Trainer für \#Webentwicklung*
 
 `01.2002 - 09.2002`
 __Pflegeheim Talgarten (Konstanz)__
