@@ -69,15 +69,16 @@ __Hochschule der Medien Stuttgart__
 ## Fachkenntnisse / Skills
 
 __Web:__
-- HTML / CSS
-- Typo3 / Wordpress
-- PHP / SQL / XML / Java / Javascript / SEO
+- HTML \. CSS
+- Typo3 \. Wordpress
+- SEO
+- PHP \. SQL \. XML \. Java \. Javascript
 
 __Applikationen:__
-- Adobe Creative Suite/Marketing Suite
-- SAP BW / BO / ERP
-- Google Webmaster Tools / Google Analytics / Piwik
-- JIRA / Sharepoint
+- Adobe Creative Suite\.Marketing Suite
+- SAP BW \. BO \. ERP
+- Google Webmaster Tools \. Google Analytics \. Piwik
+- JIRA \. Sharepoint
 
 __Sprachen:__
 - Deutsch (Muttersprache)
