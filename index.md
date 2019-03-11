@@ -23,19 +23,20 @@ geboren am 12.04.1979 in Konstanz
 
 `12.2014 - heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
-- Recherche/Konzept, Anforderungen, Testing
+- PM & PO Digitale Applikationen
+- Idee/Konzept, Anforderungen, Testing
 - [wnt.com](https://wnt.com)
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
-- Social Network Experte
-- Anforderungsmanagement, Weiterentwicklung
+- Social Network Experte (Enterprise 2.0)
+- Anforderungsmanagement, Weiterentwicklung, Schulungen
 - [voith.com](https://voith.com)
 
 `08.2008 - 12.2011`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 - Projektleiter
-- Onlinemarketing, Website Admin (CMS)
+- Onlinemarketing, Website Admin/Redaktion (CMS)
 - [innovation.mfg.de](https://innovation.mfg.de)
 
 `02.2007 - 07.2008`
@@ -74,7 +75,6 @@ __Web:__
 
 __Applikationen:__
 - Adobe Creative Suite/Marketing Suite
-- MS Office
 - SAP BW / BO / ERP
 - Google Webmaster Tools / Google Analytics / Piwik
 - JIRA / Sharepoint
