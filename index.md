@@ -9,7 +9,7 @@ title: Christof Lechner's CV
 | Diepolz 32, 87509 Immenstadt<br />
 </div>
 ***
-![Alt text](200px_Lechner.jpg)      
+![Christof Lechner](200px_Lechner.jpg)      
 
 geboren am 12.04.1979 in Konstanz
 
