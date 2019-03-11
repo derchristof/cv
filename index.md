@@ -59,14 +59,14 @@ __Human Touch Media / SWR (Konstanz)__
 __Klinikum Konstanz__
 - *Zivildienstleistender*
 
+<div style="page-break-after: always;"></div>
+
 ## Akademische Laufbahn
 
 `10.2002 - 08.2006`
 __Hochschule der Medien Stuttgart__
 - \#Informationswirtschaft
 - Abschluss: Diplom-Informationswirt (FH)
-
-<div style="page-break-after: always;"></div>
 
 ## Fachkenntnisse / Skills
 
