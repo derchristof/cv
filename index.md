@@ -53,7 +53,8 @@ __Pflegeheim Talgarten (Konstanz)__
 
 `10.1999 - 12.2001`
 __Human Touch Media / SWR (Konstanz)__
-- *Praktikant & Auszubildender Mediengestalter Bild & Ton (unvollendet)*
+- *Praktikant & Auszubildender*
+- \#Mediengestalter Bild & Ton (unvollendet)
 
 `09.1998 - 07.1999`
 __Klinikum Konstanz__
