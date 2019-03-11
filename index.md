@@ -40,7 +40,7 @@ __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
 - *Trainee*
 
-`10.2006 - 01.2007`
+`09.2006 - 01.2007`
 __Trainer für Webentwicklung (Stuttgart)__
 - *Trainer für \#Webentwicklung*
 
