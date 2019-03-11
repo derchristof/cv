@@ -23,41 +23,41 @@ geboren am 12.04.1979 in Konstanz
 
 `12.2014 - heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
-- PM & PO Digitale Applikationen
+- *PM & PO Digitale Applikationen*
 - \#Idee/Konzept \#Anforderungen \#Testing
 - [wnt.com](https://wnt.com)
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
-- Social Network Experte (Enterprise 2.0)
+- *Social Network Experte (Enterprise 2.0)*
 - \#Anforderungsmanagement \#Weiterentwicklung \#Schulungen
 - [voith.com](https://voith.com)
 
 `08.2008 - 12.2011`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
-- Projektleiter
+- *Projektleiter*
 - \#Onlinemarketing \#Website \#Admin/Redaktion (CMS)
 - [innovation.mfg.de](https://innovation.mfg.de)
 
 `02.2007 - 07.2008`
 __MFG Innovationsagentur für IT und Medien (Stuttgart)__
-- Trainee
+- *Trainee*
 
 `10.2006 - 01.2007`
 __Trainer für Webentwicklung (Stuttgart)__
-- Schulungen in HTML/CSS
+- *Trainer für Webentwicklung*
 
 `01.2002 - 09.2002`
 __Pflegeheim Talgarten (Konstanz)__
-- Pflegehelfer
+- *Pflegehelfer*
 
 `10.1999 - 12.2001`
 __Human Touch Media / SWR (Konstanz)__
-- Praktikant & Auszubildender Mediengestalter Bild & Ton (unvollendet)
+- *Praktikant & Auszubildender Mediengestalter Bild & Ton (unvollendet)*
 
 `09.1998 - 07.1999`
 __Klinikum Konstanz__
-- Zivildienstleistender
+- *Zivildienstleistender*
 
 ## Akademische Laufbahn
 
