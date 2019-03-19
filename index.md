@@ -91,7 +91,7 @@ __Interessen:__
 - Meditation
 - Fitness
 
-## Weiteres
+***
 
 `01.2012 - 04.2012`
 - *Arbeitssuchend nach Auslaufen*  
