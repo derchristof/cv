@@ -94,13 +94,13 @@ __Interessen:__
 ## Weiteres
 
 `01.2012 - 04.2012`
-- Arbeitssuchend nach Auslaufen  
-des befristeten Arbeitsverhältnisses
+- *Arbeitssuchend nach Auslaufen*  
+- *des befristeten Arbeitsverhältnisses*
 
 `05.2014 - 11.2014`
-- Arbeitssuchend nach Auslaufen  
-des befristeten Arbeitsverhältnisses
-- Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu
+- *Arbeitssuchend nach Auslaufen*  
+- *des befristeten Arbeitsverhältnisses*
+- *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
 
 ***
 Letztes Update: März 2019
