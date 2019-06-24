@@ -69,6 +69,8 @@ __Hochschule der Medien Stuttgart__
 ## Fachkenntnisse / Skills
 
 __Web:__
+- SCRUM
+- SOA
 - HTML \. CSS
 - Typo3 \. Wordpress
 - SEO
@@ -103,4 +105,4 @@ __Interessen:__
 - *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
 
 ***
-Letztes Update: März 2019
+Letztes Update: Juni 2019
