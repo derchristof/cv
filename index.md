@@ -68,20 +68,19 @@ __Hochschule der Medien Stuttgart__
 
 ## Fachkenntnisse / Skills
 
-__Web:__
-- SCRUM
+__Webskills:__
+- SCRUM \. Agiles Projektmanagement
 - SOA
 - HTML \. CSS
-- Typo3 \. Wordpress
 - SEO
 - PHP \. SQL \. XML \. Java \. Javascript
 
-__Applikationen:__
+__Applikationen (Anwenderkenntnisse):__
 - Adobe Creative Suite\.Marketing Suite
 - SAP BW \. BO \. ERP
-- E-Commerce Systeme
-- Google Webmaster Tools \. Google Analytics \. Piwik
-- JIRA \. Sharepoint
+- Typo3 \. Wordpress \. AEM
+- E-Commerce Systeme (SAP Hybris)
+- JIRA
 
 __Sprachen:__
 - Deutsch (Muttersprache)
@@ -105,4 +104,4 @@ __Interessen:__
 - *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
 
 ***
-Letztes Update: Juni 2019
+Letztes Update: April 2021
