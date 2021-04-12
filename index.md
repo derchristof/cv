@@ -5,7 +5,7 @@ title: Christof Lechner's CV
 # Christof Lechner
 
 <div id="webaddress">
-<a href="mailto:christof.lechner@gmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
+<a href="mailto:cl108@protonmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
 | Immenstadt<br />
 </div>
 ***
