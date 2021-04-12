@@ -6,7 +6,7 @@ title: Christof Lechner's CV
 
 <div id="webaddress">
 <a href="mailto:christof.lechner@gmail.com">christof.lechner@gmail.com</a> | +49-176-87595322
-| Diepolz 32, 87509 Immenstadt<br />
+| Immenstadt<br />
 </div>
 ***
 ![Christof Lechner](200px_Lechner.jpg)      
@@ -17,14 +17,14 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Project Manager & Product Owner @ Ceratizit Deutschland GmbH**
+**Project Manager & Test Manager @ Ceratizit Deutschland GmbH**
 
 ## Berufliche Laufbahn
 
 `12.2014 - heute`
 __Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
 - *PM & PO Digitale Applikationen*
-- \#Idee/Konzept \#Anforderungen \#Testing
+- \#Konzept \#Anforderungen \#Testing \#2nd Level Support
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
