@@ -6,7 +6,7 @@ title: Christof Lechner's CV
 
 <div id="webaddress">
 <a href="mailto:cl108@protonmail.com">cl108@protonmail.com</a> | +49-176-87595322
-| Immenstadt<br />
+| Oy-Mittelberg<br />
 </div>
 ***
 ![Christof Lechner](200px_Lechner.jpg)      
