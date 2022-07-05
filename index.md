@@ -17,14 +17,14 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Project Manager & Test Manager @ Ceratizit Deutschland GmbH**
+**Project Management, Test Managagement & 2nd Level Support @ Ceratizit Deutschland GmbH**
 
 ## Berufliche Laufbahn
 
 `12.2014 - heute`
-__Ceratizit Deutschland GmbH (ehem. WNT, Kempten)__
-- *PM & PO Digitale Applikationen*
-- \#Konzept \#Anforderungen \#Testing \#2nd Level Support
+__Ceratizit Deutschland GmbH__
+- *Digitale Applikationen*
+- \#Anforderungen \#Testing \#2nd Level Support
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
@@ -70,17 +70,14 @@ __Hochschule der Medien Stuttgart__
 
 __Webskills:__
 - SCRUM \. Agiles Projektmanagement
-- SOA
 - HTML \. CSS
-- SEO
-- PHP \. SQL \. XML \. Java \. Javascript
+- PHP \. SQL \. XML \. Javascript
 
 __Applikationen (Anwenderkenntnisse):__
-- Adobe Creative Suite\.Marketing Suite
-- SAP BW \. BO \. ERP
+- SAP BO \. ERP
 - Typo3 \. Wordpress \. AEM
 - E-Commerce Systeme (SAP Hybris)
-- JIRA
+- JIRA Software (JSM, etc.)
 
 __Sprachen:__
 - Deutsch (Muttersprache)
@@ -104,4 +101,4 @@ __Interessen:__
 - *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
 
 ***
-Letztes Update: April 2021
+Letztes Update: Juli 2022
