@@ -66,12 +66,14 @@ __Hochschule der Medien Stuttgart__
 - *Diplom-Informationswirt (FH)*
 - \#Informationswirtschaft \#IT \#BWL 
 
+## Zertifizierungen
+- ISTQB Certified Tester \– Foundation Level (CTFL)
+
 ## Fachkenntnisse / Skills
 
 __Webskills:__
-- SCRUM \. Agiles Projektmanagement
 - HTML \. CSS
-- PHP \. SQL \. XML \. Javascript
+- PHP \. SQL \. XML
 
 __Applikationen (Anwenderkenntnisse):__
 - SAP BO \. ERP
@@ -80,10 +82,7 @@ __Applikationen (Anwenderkenntnisse):__
 - JIRA Software (JSM, etc.)
 
 __Sprachen:__
-- Deutsch (Muttersprache)
-- Englisch (Fließend in Wort & Schrift)
-- Niederländisch (Muttersprache)
-- Russisch (Gut)
+- Deutsch (Muttersprache) \. Englisch (Fließend in Wort & Schrift) \. Niederländisch (Muttersprache) \. Russisch (Gut)
 
 __Interessen:__
 - Meditation
