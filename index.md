@@ -68,6 +68,7 @@ __Hochschule der Medien Stuttgart__
 
 ## Zertifizierungen
 
+__ISTQB - International Software Testing Qualifications Board__
 - ISTQB Certified Tester Foundation Level (CTFL)
 
 ## Fachkenntnisse / Skills
