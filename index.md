@@ -17,7 +17,7 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Project Management, Test Managagement & 2nd Level Support @ Ceratizit Deutschland GmbH**
+**2nd Level Support, Project Management & Testing @ Ceratizit Deutschland GmbH**
 
 ## Berufliche Laufbahn
 
