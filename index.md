@@ -67,7 +67,8 @@ __Hochschule der Medien Stuttgart__
 - \#Informationswirtschaft \#IT \#BWL 
 
 ## Zertifizierungen
-- ISTQB Certified Tester \– Foundation Level (CTFL)
+
+- ISTQB Certified Tester Foundation Level (CTFL)
 
 ## Fachkenntnisse / Skills
 
