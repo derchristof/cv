@@ -102,4 +102,4 @@ __Interessen:__
 - *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
 
 ***
-Letztes Update: Juli 2022
+Letztes Update: September 2022
