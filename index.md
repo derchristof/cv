@@ -9,7 +9,7 @@ title: Christof Lechner's CV
 | Oy-Mittelberg<br />
 </div>
 ***
-![Christof Lechner](200px_Lechner.jpg)      
+![Christof Lechner](Lechner_New.jpg)      
 
 geboren am 12.04.1979 in Konstanz
 
