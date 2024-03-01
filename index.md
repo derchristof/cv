@@ -5,7 +5,7 @@ title: Christof Lechner's CV
 # Christof Lechner
 
 <div id="webaddress">
-<a href="mailto:cl108@protonmail.com">cl108@protonmail.com</a> | +49-176-87595322
+<a href="mailto:christof.lechner@outlook.de">christof.lechner@outlook.de</a> | +49-176-87595322
 | Oy-Mittelberg<br />
 </div>
 ***
@@ -17,11 +17,11 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**2nd Level Support, Project Management & Testing @ Ceratizit Deutschland GmbH**
+**Sytems Engineer & 1st/2nd Level Support @ INIT AG**
 
 ## Berufliche Laufbahn
 
-`12.2014 - heute`
+`12.2014 - 02.2023`
 __Ceratizit Deutschland GmbH__
 - *Digitale Applikationen*
 - \#Anforderungen \#Testing \#2nd Level Support
@@ -68,6 +68,11 @@ __Hochschule der Medien Stuttgart__
 
 ## Zertifizierungen
 
+`2022`
+__ITIL__
+- ITIL Foundation Certificate in IT Service Management
+
+`2023`
 __ISTQB - International Software Testing Qualifications Board__
 - ISTQB Certified Tester Foundation Level (CTFL)
 
@@ -82,6 +87,8 @@ __Applikationen (Anwenderkenntnisse):__
 - Typo3 \. Wordpress \. AEM
 - E-Commerce Systeme (SAP Hybris)
 - JIRA Software (JSM, etc.)
+- Windows Client & Server
+- Office 365
 
 __Sprachen:__
 - Deutsch (Muttersprache) \. Englisch (Fließend in Wort & Schrift) \. Niederländisch (Muttersprache) \. Russisch (Gut)
@@ -102,4 +109,4 @@ __Interessen:__
 - *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
 
 ***
-Letztes Update: September 2022
+Letztes Update: März 2024
