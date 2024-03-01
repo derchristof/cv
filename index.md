@@ -17,7 +17,7 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Sytems Engineer & 1st/2nd Level Support @ INIT AG**
+**Systems Engineer \. 1st/2nd Level Support @ INIT AG**
 
 ## Berufliche Laufbahn
 
