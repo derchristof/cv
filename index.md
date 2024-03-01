@@ -17,12 +17,12 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Systems Engineer \. 1st/2nd Level Support @ INIT AG**
+**Systems Engineer \. 1st/2nd Level Support @ INIT AG (remote)**
 
 ## Berufliche Laufbahn
 
 `12.2014 - 02.2023`
-__Ceratizit Deutschland GmbH__
+__Ceratizit Deutschland GmbH (Kempten)__
 - *Digitale Applikationen*
 - \#Anforderungen \#Testing \#2nd Level Support
 
