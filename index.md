@@ -17,7 +17,8 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Systems Engineer \. 1st/2nd Level Support @ INIT AG (remote)**
+**Systems Engineer \. 1st/2nd Level Support @ INIT AG Berlin (remote)**
+- ITIL Foundation Certified
 
 ## Berufliche Laufbahn
 
