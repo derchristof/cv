@@ -68,11 +68,11 @@ __Hochschule der Medien Stuttgart__
 
 ## Zertifizierungen
 
-`2022`
+`2023`
 __ITIL__
 - ITIL Foundation Certificate in IT Service Management
 
-`2023`
+`2022`
 __ISTQB - International Software Testing Qualifications Board__
 - ISTQB Certified Tester Foundation Level (CTFL)
 
