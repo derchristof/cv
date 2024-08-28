@@ -20,6 +20,7 @@ geboren am 12.04.1979 in Konstanz
 **Professional Systems Engineer @ INIT AG Berlin**
 - ITIL Foundation Certified
 - 1st & 2nd Level Support
+- Dokumentation
 
 ## Berufliche Laufbahn
 
