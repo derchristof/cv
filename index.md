@@ -80,17 +80,14 @@ __ISTQB - International Software Testing Qualifications Board__
 
 ## Fachkenntnisse / Skills
 
-__Webskills:__
-- HTML \. CSS
-- PHP \. SQL \. XML
-
-__Applikationen (Anwenderkenntnisse):__
-- SAP BO \. ERP
-- Typo3 \. Wordpress \. AEM
-- E-Commerce Systeme (SAP Hybris)
-- JIRA Software (JSM, etc.)
-- Windows Client & Server
+- Ticketsysteme (JSM, Assyst, etc.)
+- JIRA Software
+- Windows Client & Server (Anwender)
 - Office 365
+- Typo3 \. Wordpress \. AEM
+- HTML \. CSS
+- SQL \. XML
+
 
 __Sprachen:__
 - Deutsch (Muttersprache) \. Englisch (Fließend in Wort & Schrift) \. Niederländisch (Muttersprache) \. Russisch (Gut)
@@ -108,7 +105,7 @@ __Interessen:__
 `05.2014 - 11.2014`
 - *Arbeitssuchend nach Auslaufen*  
 - *des befristeten Arbeitsverhältnisses*
-- *Mehrstufiger Bewerbungsprozess & Umzug ins Allgäu*
+- *Umzug ins Allgäu*
 
 ***
-Letztes Update: März 2024
+Stand: August 2024
