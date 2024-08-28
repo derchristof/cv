@@ -6,7 +6,7 @@ title: Christof Lechner's CV
 
 <div id="webaddress">
 <a href="mailto:christof.lechner@outlook.de">christof.lechner@outlook.de</a> | +49-176-87595322
-| Oy-Mittelberg<br />
+| Hinterschwarzenberg 8, Oy-Mittelberg<br />
 </div>
 ***
 ![Christof Lechner](Lechner_New.jpg)      
@@ -17,15 +17,16 @@ geboren am 12.04.1979 in Konstanz
 
 ## Aktuell
 
-**Systems Engineer \. 1st/2nd Level Support @ INIT AG Berlin (remote)**
+**Professional Systems Engineer @ INIT AG Berlin**
 - ITIL Foundation Certified
+- 1st & 2nd Level Support
 
 ## Berufliche Laufbahn
 
 `12.2014 - 02.2023`
 __Ceratizit Deutschland GmbH (Kempten)__
 - *Digitale Applikationen*
-- \#Anforderungen \#Testing \#2nd Level Support
+- \#Testing \#2nd Level Support \#Service & Incident Management
 
 `05.2012 - 04.2014`
 __Voith Industrial Services GmbH & Co. KG (Stuttgart)__
